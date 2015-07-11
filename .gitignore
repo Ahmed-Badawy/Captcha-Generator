@@ -2,6 +2,7 @@
 
 
 
-/fonts
-/good-fonts-for-implementation
-
+*.OTF
+*.TTF
+*.TTC
+*.FON
